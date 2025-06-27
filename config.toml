@@ -1,0 +1,8 @@
+theme = "airspace-hugo"
+
+[params]
+  logo = "img/logo.png"
+  customCSS = ["css/custom.css"]
+
+
+  
